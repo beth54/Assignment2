@@ -1,0 +1,24 @@
+html,
+table {
+    border-collapse: collapse;
+    border-style: double;
+}
+
+td{
+  border:1px solid #b4b9b1;
+  background-color:floralwhite;
+  text-align:center;
+}
+
+th {
+  background-color: #d0deba;
+  border: 1px solid #b4b9b1;
+  padding: 10px;
+  padding-top: 10px;
+  text-align: center;
+}
+
+.words {
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  color:darkslategrey;
+}
